@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelmarjim&label=Profile views&color=0e75b6&style=flat" alt="nelmarjim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelmarjim" alt="nelmarjim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=nelmarjim&theme=onedark&column=4&margin-w=15&no-frame=true" alt="nelmarjim" /></a> </p>
 
 - 💬 Ask me about **Laravel, React/Next.js, or PostgreSQL-backed systems.**
 
 - 📫 Reach me at **nelmarjimluna@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://nelmarjimluna.vercel.app/](https://nelmarjimluna.vercel.app/)**
+- 👨‍💻 All of my projects are available at **<a href="https://nelmarjimluna.vercel.app/" target="_blank" rel="noreferrer">https://nelmarjimluna.vercel.app/</a>**
 
-- 📝 I regularly write articles on **[https://nelmarjimluna.vercel.app/blog](https://nelmarjimluna.vercel.app/blog)**
+- 📝 I regularly write articles on **<a href="https://nelmarjimluna.vercel.app/blog" target="_blank" rel="noreferrer">https://nelmarjimluna.vercel.app/blog</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/nelmarjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nelmarjim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nelmarjimluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelmarjimluna" height="30" width="40" /></a>
-<a href="https://fb.com/nelmarjim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nelmarjim" height="30" width="40" /></a>
+<a href="https://github.com/nelmarjim" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nelmarjim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nelmarjimluna" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelmarjimluna" height="30" width="40" /></a>
+<a href="https://fb.com/nelmarjim" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nelmarjim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
